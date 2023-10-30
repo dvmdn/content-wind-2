@@ -9,3 +9,5 @@ head.image: 'https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rpr
 # This is the new page
 
 Content of the new page.
+
+![cover.jpg](/cover.jpg)
